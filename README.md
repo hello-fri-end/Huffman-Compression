@@ -1,6 +1,6 @@
 # Huffman Compression
 
-The program demonstrates the use of Huffman Compression to send compressed files across a socket program in C.
+The program demonstrates the use of Huffman Compression to send compressed files across a socket program in Python.
 
 ## What is Huffman Compression?
 
